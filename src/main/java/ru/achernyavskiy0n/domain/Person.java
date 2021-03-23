@@ -4,7 +4,7 @@ import lombok.*;
 
 /**
  * 07.03.2021
- *
+ * Base model class for instantiation
  * @author a.chernyavskiy0n
  */
 @Getter

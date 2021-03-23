@@ -7,7 +7,7 @@ import org.junit.jupiter.api.extension.ParameterResolver;
 
 /**
  * 23.03.2021
- *
+ * Base resolver class for JUnit5 test implemantions
  * @author a.chernyavskiy0n
  */
 
